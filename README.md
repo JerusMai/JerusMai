@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @JerusMai
-- 👀 I’m interested in Cloud Infrastructure and Deployment...
-- 🌱 I’m currently learning Container Ochestration ...
-- 💞️ I’m looking to collaborate on cloud computing projects and grow in my skills...
-- 📫 How to reach me maikonej@gmail.com ...
+- Jerus Maikaje
+- Talk to me, I am open Sauce
+- DevOps
 
-<!---
-JerusMai/JerusMai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
